@@ -6,13 +6,12 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Physics Ph.D. candidate at [Spin-Ion Technologies](https://www.spin-ion.com/) and [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), working under the mentorship of Dr. [Ravelosona dafiné](https://www.spin-ion.com/about-us/), the director of research [CNRS](https://www.cnrs.fr/fr) and CTO of [Spin-Ion Technologies](https://www.spin-ion.com/). My research involves magnetoelectric ("ME") materials for energy-efficient information technology and "ME" materials for data security in information technology using Multiferroics/Magneto-ionics/Surface charging, with a special focus on the boosting magneto-ionic effect using ion irradiation and implantation.
+I'm Xiaoqing Hou, a postgraduate at School of management, Xi’an Jiaotong University. I major in management science with research interests in sustainable management, energy and environmental management, climate change and macro policies etc. I have one accepted SCI paper and one under submission paper currently. And I have won several national awards, the first prize scholarship and other student cadre Commendations. I has worked for the Ministry of Education Key Lab For Intelligent Networks and Network Security, Xi'an Jiaotong University in her internship.
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Sustainable Management:** carbon neutrality
+- **Energy and Environmental Economoics**
+- **Quantitative Economics** 
+- **Macro policies**
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}

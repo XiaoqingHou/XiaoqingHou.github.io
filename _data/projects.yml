@@ -1,12 +1,14 @@
 main:
 
-  - title: I-V Measurement System
-    authors: Song Chen
-    project_short: Software
-    project: The software is used to aplly the bias voltage and measure the current. Futher features such as I-V, V-I switching toggle, and Cyclic Voltammetry (CV) will be also included. 
+  - title: “Challenge Cup” National College Student Entrepreneurship Plan Competition
+    Prize: National Bronze Award
+    author: Xiaoqing Hou(Captain and Lead Author)
+    project: As the team leader, participated in the experiment of soft plasma etching technology applied to spectral detection and the research and development of semiconductor thin film tomography absorption spectrometer, and has five invention patentsand utility model patents, including A semiconductor thin film testing device and A new characterization method for vertical
+phase separation in the depth direction of organic thin films, of which three are the first author and two are the second author. As the head of business, led semiconductor market analysis, semiconductor testing segment valuation, product pricing based on cost method, business model design and promotion and other modules, signed orders of more than 5 million yuan,
+served more than 100 universities and enterprises such as Peking University and University of Chinese Academy of Sciences, and was guided by Academic of Sciences, etc., and reported by the People's Daily client and Xi'an Jiaotong University News.
     pdf: https://icloud.songchen.science/?/I-V/
     web: https://icloud.songchen.science/?/I-V/
-    image: https://blog.songchen.science/images/I-V/GUI.png
+    image: https://blog.songchen.science/images/ChallengeCup.png
     notes:
 
   - title: Anomalous Hall Effect Measurement System (AHEMS)

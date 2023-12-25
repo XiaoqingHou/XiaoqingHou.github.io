@@ -14,9 +14,9 @@ I'm Xiaoqing Hou, a postgraduate at School of management, Xi’an Jiaotong Unive
 - **Macro policies**
 
  ## Education:
- Xi'an Jiaotong University, School of Management, Bachelor in Business Administration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2019-2023
+ Xi'an Jiaotong University, School of Management, Bachelor in Business Administration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019-2023*
  <br>
- Xi'an Jiaotong University, School of Management, Master in Management Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023-2026(expected)
+ Xi'an Jiaotong University, School of Management, Master in Management Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2023-2026(expected)*
 - **GPA:** 88.33
 - **Rank:** 4 (TOP 10%)
 - **Honors:** The first prize scholarship of Xi'an Jiaotong University, Excellent league secretary of Xi'an Jiaotong University

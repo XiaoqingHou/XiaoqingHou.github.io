@@ -13,7 +13,6 @@ I'm Xiaoqing Hou, a postgraduate at School of management, Xi’an Jiaotong Unive
 - **Quantitative Economics** 
 - **Macro policies**
   
-{% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
 

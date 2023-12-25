@@ -12,7 +12,7 @@ I'm Xiaoqing Hou, a postgraduate at School of management, Xi’an Jiaotong Unive
 - **Energy and Environmental Economoics**
 - **Quantitative Economics** 
 - **Macro policies**
- ## Education:
+## Education:
  Xi'an Jiaotong University, School of Management, Bachelor in Business Administration&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2019-2023*
  <br>
  Xi'an Jiaotong University, School of Management, Master in Management Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2023-2026(expected)*
